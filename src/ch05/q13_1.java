@@ -17,7 +17,7 @@ public class q13_1 {
 
 			for (int j = 0; j < question.length; j++) {
 
-				// 여기까진 생각했음 
+		
 				int idx = (int) (Math.random() % question.length);
 
 				char tmp;

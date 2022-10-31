@@ -6,8 +6,7 @@ public class q6 {
 
 		int num = 24;
 	
-		int plusNum =  (num / 10)+1;
-	
+		int plusNum = (num /10)+1;
 		
 		System.out.println( (plusNum*10)-num );
 		

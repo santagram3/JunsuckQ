@@ -11,8 +11,6 @@ public class q7 {
 
 		System.out.println(value);
 		
-		
-
 	}
 
 }

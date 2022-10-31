@@ -3,7 +3,7 @@ package ch04;
 class q15 {
 	public static void main(String[] args) {
 
-		int number = 12321;
+		int number = 1421;
 		int tmp = number;
 		// while 을 멈출 불린 만들기 
 		boolean stop = true ; 

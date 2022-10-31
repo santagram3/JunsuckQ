@@ -9,7 +9,7 @@ public class q8 {
 		char ch = 'A';
 		//ch = ch + 2;
 		float f = (float)3 / 2;
-		long l = 3000 * 3000 * 3000; // 
+		long l = (long)3000 * 3000 * 3000; // 
 		float f2 = 0.1f;
 		double d = 0.1;
 		boolean result = d==f2;

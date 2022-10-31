@@ -14,7 +14,6 @@ public class q2 {
 				sum += i;
 				System.out.println(i);
 			}
-
 		}
 		System.out.println(sum);
 

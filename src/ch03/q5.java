@@ -12,7 +12,7 @@ public class q5 {
 		
 		int num1 = (num/10)*10+1;
 		System.out.println(num1);
-		System.out.println( /* (1) */ );
+		System.out.println( );
 
 	}
 

@@ -10,11 +10,7 @@ public class q10 {
 		 * (1)~(2) .
 		 */ // 모르겠다 .. 
 		
-		char ch = 'A';
-		char lowerCase = ( /* (1) */ ) ? ( /* (2) */ ) : ch;
-		System.out.println("ch:"+ch);
-		System.out.println("ch to lowerCase:"+lowerCase);
-		
+
 		
 
 	}

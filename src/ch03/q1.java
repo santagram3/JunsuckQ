@@ -11,6 +11,7 @@ public class q1 {
 		System.out.println(1 + x << 33);  // 비트연산자 안함 . 
 		System.out.println(y >= 5 || x < 0 && x > 2); // 
 		// true || false && false  // true 란다 ;; 
+		// && 가 ||보다 우선순윅가 높다 
 		System.out.println(y += 10 - x++);// 15-2 ? 13 
 		System.out.println(x+=2); // 2+2 // 이거 왜 5 인지 모르겠음 
 		System.out.println( !('A' <= c && c <='Z') ); // ! (true && true ) == false 

@@ -1,4 +1,4 @@
-
+package ch04;
 public class q6 {
 
 	public static void main(String[] args) {
@@ -10,6 +10,6 @@ public class q6 {
 			}
 		}
 
-	}
+	} // 
 
-}
+} // c
