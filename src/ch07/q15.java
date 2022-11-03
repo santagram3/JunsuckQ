@@ -15,7 +15,9 @@ public class q15 {
 		 GroundUnit gu = (GroundUnit)u;
 		 AirUnit au = ac;
 		 t = (Tank)u;
-		 //GroundUnit gu = t;
+		 //GroundUnit gu = t;\
+		 // 1 번 틀렸다고 생각함 
+		 
 
 
 	}
